@@ -1,0 +1,28 @@
+/*
+style.css
+---------
+ 
+Par Stéphane Hunin
+*/
+@font-face{
+	font-family: '1942';
+	src: url('1942.ttf');
+}
+
+body{
+	background: url("img/photo_cv_mini.jpg") fixed no-repeat center;
+}
+
+h1{
+	border: 4px blue inset;
+	font-family: '1942', "comic sans ms";
+}
+
+h2{
+	color: orange;
+	text-shadow: 2px 2px 2px blue;
+}
+
+.center-text{
+	text-align: center;
+}
