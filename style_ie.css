@@ -1,0 +1,15 @@
+/* Main elements of the page */
+#liseret{
+    display: inline;
+    zoom: 1;
+} 
+#right_container{
+    display: inline;
+    zoom: 1;
+}
+
+/* Body */
+#mon_experience, #mes_competences, #ma_formation{
+    display: inline;
+    zoom: 1;
+}
